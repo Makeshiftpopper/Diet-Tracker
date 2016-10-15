@@ -13,7 +13,7 @@ int main()
    const int MIN_SERV_SIZE = 0;
 
    // food #1 constants
-   const string FOOD_1_NAME = "tortilla";
+   const string FOOD_1_NAME = "Tortilla";
    const int FOOD_1_CALORIES_P100G = 312;        // in calories
    const double FOOD_1_PROTEIN_P100G = 8.3;      // in grams
    const double FOOD_1_SUGAR_P100G = 1.9;        // in grams
@@ -21,7 +21,7 @@ int main()
    const double FOOD_1_DIETARY_FIBER_P100G = 3.1;// in grams
 
    // food #2 constants
-   const string FOOD_2_NAME = "tomato";
+   const string FOOD_2_NAME = "Tomato";
    const int FOOD_2_CALORIES_P100G = 18;        // in calories
    const double FOOD_2_PROTEIN_P100G = .9;   // in grams
    const double FOOD_2_SUGAR_P100G = 2.6;        // in grams
@@ -29,7 +29,7 @@ int main()
    const double FOOD_2_DIETARY_FIBER_P100G = 1.2;// in grams
 
    // food #3 constants
-   const string FOOD_3_NAME = "mexican blend cheese";
+   const string FOOD_3_NAME = "Mexican blend cheese";
    const int FOOD_3_CALORIES_P100G = 282;       // in calories
    const double FOOD_3_PROTEIN_P100G = 24.7;    // in grams
    const double FOOD_3_SUGAR_P100G = .6;        // in grams
@@ -37,7 +37,7 @@ int main()
    const double FOOD_3_DIETARY_FIBER_P100G = 0;// in grams
 
    // food 4 constants
-   const string FOOD_4_NAME = "enchilada sauce";
+   const string FOOD_4_NAME = "Enchilada sauce";
    const int FOOD_4_CALORIES_P100G = 40;        // in calories
    const double FOOD_4_PROTEIN_P100G = 1.7;      // in grams
    const double FOOD_4_SUGAR_P100G = 6.7;        // in grams
@@ -45,7 +45,7 @@ int main()
    const double FOOD_4_DIETARY_FIBER_P100G = 1.7;// in grams
 
    // food 5 constants
-   const string FOOD_5_NAME = "canned black olives";
+   const string FOOD_5_NAME = "Canned black olives";
    const int FOOD_5_CALORIES_P100G = 81;        // in calories
    const double FOOD_5_PROTEIN_P100G = 1.0;      // in grams
    const double FOOD_5_SUGAR_P100G = 0;        // in grams
@@ -53,7 +53,7 @@ int main()
    const double FOOD_5_DIETARY_FIBER_P100G = 2.5;// in grams
 
    // food 6 constants
-   const string FOOD_6_NAME = "chicken fajita strips";
+   const string FOOD_6_NAME = "Chicken fajita strips";
    const int FOOD_6_CALORIES_P100G = 135;        // in calories
    const double FOOD_6_PROTEIN_P100G = 18.6;      // in grams
    const double FOOD_6_SUGAR_P100G = 0;        // in grams
